@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/WeerakoonOS/WeatherNow/issues"
   },
-  "homepage": "https://github.com/WeerakoonOS/WeatherNow#readme"
+  "homepage": "https://github.com/WeerakoonOS/WeatherNow#readme",
+  "dependencies": {
+    "request": "^2.85.0"
+  }
 }
