@@ -1,0 +1,19 @@
+{
+  "name": "weather-now",
+  "version": "1.0.0",
+  "description": "simple weather app to give current weather",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WeerakoonOS/WeatherNow.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WeerakoonOS/WeatherNow/issues"
+  },
+  "homepage": "https://github.com/WeerakoonOS/WeatherNow#readme"
+}
