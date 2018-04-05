@@ -8,7 +8,7 @@ request(url, function (err, response, body) {
     console.log('error:', error);
   } else {
     let weather = JSON.parse(body);
-    let message = `It's ${weather.main.temp} degrees in ${weather.name}!`;
+    let message = `It's ${weather.main.temp} Celcius in ${weather.name}!`;
     console.log(message);
     //console.log('body:', body);
   }
